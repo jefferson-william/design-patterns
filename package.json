@@ -1,0 +1,35 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Design Patterns",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": "14.17.3",
+    "npm": "6.14.x",
+    "yarn": "1.x"
+  },
+  "author": "Jefferson William Machado",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "27.4.0",
+    "@types/node": "17.0.10",
+    "@typescript-eslint/eslint-plugin": "5.10.0",
+    "@typescript-eslint/parser": "5.10.0",
+    "eslint": "8.7.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-airbnb-typescript": "16.1.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-import-resolver-typescript": "2.5.0",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-import-helpers": "1.2.1",
+    "eslint-plugin-jest": "26.0.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "jest": "27.4.7",
+    "prettier": "2.5.1",
+    "ts-jest": "27.1.3",
+    "typescript": "4.5.5"
+  }
+}
